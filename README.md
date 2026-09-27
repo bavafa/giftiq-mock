@@ -1,10 +1,6 @@
-# Giftiq mock preview
+# giftiq-mock
 
-Public static preview of the Giftiq Expo web app (demo mode, no Supabase/Etsy keys).
+Static Expo web export of Giftiq (`apps/mobile`) served on GitHub Pages at
+https://bavafa.github.io/giftiq-mock/
 
-Live: https://bavafa.github.io/giftiq-mock/
-
-Expo web export from `bavafa/Giftiq` branch `jason/wire-supabase-e2e` @ `c53bf82`
-(bugfix: For-me Story Gradient full-bleed, cooled Quiet Luxury cream, chip seeds,
-final-persona body, self results hero). Built with `experiments.baseUrl=/giftiq-mock`
-for GitHub Pages asset paths.
+Source branch: `jason/wire-supabase-e2e` @ see latest commit message for SHA.
